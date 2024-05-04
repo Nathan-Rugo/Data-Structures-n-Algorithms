@@ -1,4 +1,4 @@
-package recursion.com.classwork;
+package Recursion.labs;
 
 public class Main_recursion_power {
     public static void main(String[] args) {

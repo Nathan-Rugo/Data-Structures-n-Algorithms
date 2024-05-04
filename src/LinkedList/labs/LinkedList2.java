@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList.labs;
 
 public class LinkedList2 {
 

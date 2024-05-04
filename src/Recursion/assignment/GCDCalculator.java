@@ -1,4 +1,4 @@
-package recursion.com.assignment;
+package Recursion.assignment;
 
 // Problem 5: GCD of Two Numbers using Recursion
 import java.util.Scanner;

@@ -1,6 +1,4 @@
-package recursion.com.classwork;
-
-import recursion.com.classwork.Iteration_Power;
+package Recursion.labs;
 
 public class Main_iteration_power {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package recursion.com.classwork;
+package Recursion.labs;
 
 public class Recursion_Power {
     private Integer x;

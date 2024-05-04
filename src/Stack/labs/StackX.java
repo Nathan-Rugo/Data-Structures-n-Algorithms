@@ -1,7 +1,7 @@
 // stack.java
 // demonstrates stacks
 ////////////////////////////////////////////////////////////////
-package Stack;
+package Stack.labs;
 public class StackX
 {
     private int maxSize; // size of stack array

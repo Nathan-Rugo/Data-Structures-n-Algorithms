@@ -1,4 +1,4 @@
-package recursion.com.assignment;
+package Recursion.assignment;
 
 // Problem 4: Print Array Elements using Recursion
 public class ArrayPrinter {

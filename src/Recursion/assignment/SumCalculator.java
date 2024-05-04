@@ -1,4 +1,4 @@
-package recursion.com.assignment;
+package Recursion.assignment;
 
 // Problem 3: Sum of Numbers using Recursion
 import java.util.Scanner;
