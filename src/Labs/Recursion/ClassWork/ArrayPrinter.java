@@ -1,6 +1,6 @@
 package Labs.Recursion.Classwork;
 
-// Problem 4: Print Array Elements using Labs.Recursion
+// Problem 4: Print Array Elements using Labs.Labs.Recursion
 public class ArrayPrinter {
     // Recursive method to print array elements
     public static void printArray(int[] arr, int index) {

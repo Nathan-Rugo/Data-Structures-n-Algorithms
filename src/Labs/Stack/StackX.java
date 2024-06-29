@@ -1,7 +1,7 @@
 // stack.java
 // demonstrates stacks
 ////////////////////////////////////////////////////////////////
-package Labs.Stack.labs;
+package Labs.Stack;
 public class StackX
 {
     private int maxSize; // size of stack array
@@ -18,7 +18,7 @@ public class StackX
     public void push(long j) // put item on top of stack
     {
         if(isFull()){
-            System.out.println("Labs.Stack is full. You can not add a new element to the stack!!");
+            System.out.println("Labs.Labs.Stack is full. You can not add a new element to the stack!!");
         }
         else{
             stackArray[++top] = j; // increment top, insert item
@@ -54,7 +54,7 @@ public class StackX
     }
     public void printStack(){
         if (isEmpty()){
-            System.out.println("Empty Labs.Stack\n");
+            System.out.println("Empty Labs.Labs.Stack\n");
         }
         else{
             int currentPointer = 0;

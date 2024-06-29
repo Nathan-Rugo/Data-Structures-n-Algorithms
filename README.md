@@ -4,7 +4,7 @@ Welcome to the Data Structures and Algorithms repository! This repository contai
 
 ## Overview 🪟
 
-This repository serves as a comprehensive collection of Java implementations for various data structures and algorithms. Each folder represents a specific topic or concept covered throughout your unit on data structures and algorithms.
+This repository serves as a comprehensive collection of Java implementations for various data structures and algorithms. Each folder represents a specific topic or concept covered throughout my unit on data structures and algorithms.
 
 ### Labs 🧪🔬
 
@@ -12,18 +12,18 @@ The `labs` directory contains Java files from the lab sessions conducted during 
 
 ### Assignments 📑
 
-The `assignments` directory contains Java files submitted as assignments during the unit. These files often include more advanced implementations, complex algorithms, and problem-solving exercises related to data structures and algorithms.
+The `assignments` directory contains markdown files which are theory assignments given and to be  submitted as pdf files during the unit. These files are often theory concepts related to data structures and algorithms.
 
 ## Usage 
 
-Feel free to explore the files in this repository to review concepts covered in your unit, reference implementations for your own projects, or practice coding exercises. You can clone the repository locally to your machine and import the Java files into your preferred Java IDE for further exploration and experimentation.
+Feel free to explore the files in this repository to review concepts covered in my unit, reference implementations for your own projects, or practice coding exercises. You can clone the repository locally to your machine and import the Java files into your preferred Java IDE for further exploration and experimentation.
 
 ## Academic Unit 🏫👩‍🏫👨‍🏫
 
-This repository serves as an academic resource for your unit on data structures and algorithms. It represents your efforts in understanding and implementing fundamental concepts in computer science, preparing you for more advanced topics and real-world applications.
+This repository serves as an academic resource for my unit on data structures and algorithms. It represents my efforts in understanding and implementing fundamental concepts in computer science, preparing you for more advanced topics and real-world applications.
 
 ## Credits 🎞️
 
-This repository is maintained by Nathan Githinji aka me as part of your academic journey in learning data structures and algorithms. Contributions, suggestions, and feedback are always welcome!
+This repository is maintained by Nathan Githinji aka me as part of my academic journey in learning data structures and algorithms. Contributions, suggestions, and feedback are always welcome!
 
 Enjoy exploring the world of data structures and algorithms through this repository! Happy coding! 🚀
