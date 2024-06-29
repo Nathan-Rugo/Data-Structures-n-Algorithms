@@ -1,4 +1,4 @@
-package tree.labs;
+package Labs.BinarySearchTree;
 
 public class BSTNode
 {

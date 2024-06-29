@@ -1,4 +1,4 @@
-package tree.labs;
+package Labs.BinarySearchTree;
 
 public class BSTree {
     public BSTNode root;
@@ -8,7 +8,7 @@ public class BSTree {
         root = null;
     }
 
-    /* Function to check if tree is empty */
+    /* Function to check if Labs.tree is empty */
     public boolean isEmpty() {
         return root == null;
     }
@@ -41,7 +41,7 @@ public class BSTree {
             System.out.println("Sorry " + k + " is not present");
         } else {
             root = delete(root, k);
-            System.out.println(k + " deleted from the tree");
+            System.out.println(k + " deleted from the Labs.tree");
         }
     }
 

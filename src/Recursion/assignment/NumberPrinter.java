@@ -1,4 +1,4 @@
-package Recursion.assignment;
+package Labs.Recursion.Classwork;
 
 // Problem 2: Print Numbers in a Range
 import java.util.Scanner;

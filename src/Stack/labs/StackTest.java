@@ -1,4 +1,4 @@
-package Stack.labs;
+package Labs.Stack.labs;
 
 public class StackTest {
     public static void main(String[] args) {

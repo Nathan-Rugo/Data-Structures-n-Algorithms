@@ -1,6 +1,6 @@
-package Recursion.assignment;
+package Labs.Recursion.Classwork;
 
-// Problem 5: GCD of Two Numbers using Recursion
+// Problem 5: GCD of Two Numbers using Labs.Recursion
 import java.util.Scanner;
 
 public class GCDCalculator {

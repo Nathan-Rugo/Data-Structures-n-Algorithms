@@ -1,4 +1,4 @@
-package LinkedList;
+package Labs.LinkedList;
 
 public class Node {
     int data;

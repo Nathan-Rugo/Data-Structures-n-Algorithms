@@ -1,4 +1,4 @@
-package Recursion.assignment;// Problem 1: Countdown
+package Labs.Recursion.Classwork;// Problem 1: Countdown
 import java.util.Scanner;
 
 public class Countdown {

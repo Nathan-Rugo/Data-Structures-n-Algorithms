@@ -1,4 +1,4 @@
-package Recursion.labs;
+package Labs.Recursion.labs;
 
 public class Main_iteration_power {
     public static void main(String[] args){

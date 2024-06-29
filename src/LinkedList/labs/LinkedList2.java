@@ -1,4 +1,4 @@
-package LinkedList.labs;
+package Labs.LinkedList.labs;
 
 public class LinkedList2 {
 
@@ -7,7 +7,7 @@ public class LinkedList2 {
 
     private int listCount;
 
-    // LinkedList constructor
+    // Labs.LinkedList constructor
     public LinkedList2() {
         // this is an empty list, so the reference to the head node
         // is set to a new node with no data

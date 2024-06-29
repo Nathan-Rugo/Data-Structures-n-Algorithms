@@ -1,6 +1,6 @@
-package Recursion.assignment;
+package Labs.Recursion.Classwork;
 
-// Problem 3: Sum of Numbers using Recursion
+// Problem 3: Sum of Numbers using Labs.Recursion
 import java.util.Scanner;
 
 public class SumCalculator {
