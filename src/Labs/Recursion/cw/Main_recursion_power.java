@@ -1,4 +1,4 @@
-package Labs.Recursion.labs;
+package Labs.Recursion.cw;
 
 public class Main_recursion_power {
     public static void main(String[] args) {

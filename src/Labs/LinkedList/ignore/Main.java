@@ -1,4 +1,4 @@
-package Labs.LinkedList;
+package Labs.LinkedList.ignore;
 
 public class Main {
     public static void main(String[] args) {

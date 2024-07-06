@@ -2,13 +2,13 @@
 // demonstrates stacks
 ////////////////////////////////////////////////////////////////
 package Labs.Stack;
-public class StackX
+public class StackX1
 {
     private int maxSize; // size of stack array
     private long[] stackArray;
     private int top; // top of stack
     //--------------------------------------------------------------
-    public StackX(int s) // constructor
+    public StackX1(int s) // constructor
     {
         maxSize = s; // set array size
         stackArray = new long[maxSize]; // create array
@@ -18,7 +18,7 @@ public class StackX
     public void push(long j) // put item on top of stack
     {
         if(isFull()){
-            System.out.println("Labs.Labs.Stack is full. You can not add a new element to the stack!!");
+            System.out.println("The Stack is full. You can not add a new element to the stack!!");
         }
         else{
             stackArray[++top] = j; // increment top, insert item
@@ -33,7 +33,7 @@ public class StackX
         try{
             return stackArray[top--]; // access item, decrement top
         }catch (ArrayIndexOutOfBoundsException e) {
-            System.out.println("Array index out of bounds: " + e.getMessage());
+            //System.out.println("Array index out of bounds");
             return top;
         }
     }
@@ -54,7 +54,7 @@ public class StackX
     }
     public void printStack(){
         if (isEmpty()){
-            System.out.println("Empty Labs.Labs.Stack\n");
+            System.out.println("Empty Stack\n");
         }
         else{
             int currentPointer = 0;

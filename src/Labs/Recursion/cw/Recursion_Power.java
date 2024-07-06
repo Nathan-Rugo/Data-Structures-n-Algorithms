@@ -1,4 +1,4 @@
-package Labs.Recursion.labs;
+package Labs.Recursion.cw;
 
 public class Recursion_Power {
     private Integer x;
