@@ -1,6 +1,6 @@
-package Labs.Recursion.Labs;
+package CATII.Recursion;
 
-// Problem 3: Sum of Numbers using Labs.Labs.Recursion
+// Problem a
 import java.util.Scanner;
 
 public class SumCalculator {

@@ -1,14 +1,16 @@
-package Labs.LinkedList;
+package CATII.LinkedList;
 
-public class LinkedList1 {
+
+// Problem a:  Corrected LinkedList2 java class
+
+public class LinkedList2 {
 
     // reference to the head node.
     private Node head;
 
     private int listCount;
 
-    // Labs.Labs.CATII.Recursion.LinkedList constructor
-    public LinkedList1() {
+    public LinkedList2() {
         // this is an empty list, so the reference to the head node
         // is set to a new node with no data
         //head = new Node(null);
@@ -146,5 +148,37 @@ public class LinkedList1 {
         {
             next = nextValue;
         }
+    }
+    public static void main(String[] args) {
+        LinkedList2 myList = new LinkedList2();
+
+        // Adding 5 items to the linked list
+        for (int i = 0; i < 5; i++) {
+            myList.add(i); // Adding numbers
+        }
+
+        // Adding a head node
+        myList.addToHead("Head Node");
+
+        // Adding five more nodes
+        for (int i = 5; i < 10; i++) {
+            myList.add(i); // Adding numbers
+        }
+
+        // Printing out the contents of the linked list
+        System.out.println("Contents of the linked list:");
+        myList.traverse();
+
+        // Deleting the first and second item
+        myList.remove(0);
+        myList.remove(0);
+
+        // Adding an item to index 5 of the linked list
+        myList.addSpecific("New Node", 5);
+
+        // Printing out the contents of the linked list after modifications
+        System.out.println("\nContents of the linked list after modifications:");
+        myList.traverse();
+
     }
 }

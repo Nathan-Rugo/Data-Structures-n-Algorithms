@@ -1,4 +1,4 @@
-package Labs.BinarySearchTree;
+package CATII.Trees.Problem_a;
 
 public class BSTNode {
     BSTNode left, right;

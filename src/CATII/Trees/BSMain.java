@@ -1,4 +1,8 @@
-package Labs.BinarySearchTree;
+package CATII.Trees;
+
+import CATII.Trees.Problem_a.BSTree;
+
+// Problem b:  Test class as per the Binary Tree Lab
 
 public class BSMain {
     public static void main(String[] args) {

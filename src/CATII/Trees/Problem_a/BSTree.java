@@ -1,5 +1,6 @@
-package Labs.BinarySearchTree;
+package CATII.Trees.Problem_a;
 
+// Problem a: Modified BSTree class as per the Binary Trees lab
 public class BSTree {
     public BSTNode root;
 
